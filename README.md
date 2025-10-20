@@ -27,7 +27,9 @@ All data is saved in your browser’s local storage, so your tasks remain even a
 todo-list/
 
 index.html # main structure of the app
+
 style.css # design and layout
+
 script.js # interactivity and logic
 
 ## Developer
