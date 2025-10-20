@@ -18,7 +18,7 @@ All data is saved in your browser’s local storage, so your tasks remain even a
 - **JavaScript** – for logic and local storage handling  
 
 ## How to Use
-1. Clone or download this repository: git clone https://github.com/YOUR-USERNAME/todo-list.git
+1. Clone or download this repository: git clone https://github.com/nashcode2/todo-list.git
 2. Open the project folder in **Visual Studio Code**.  
 3. Right-click `index.html` and choose **Open with Live Server**.  
 4. Start adding your tasks.  
