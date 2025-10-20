@@ -25,13 +25,13 @@ All data is saved in your browser’s local storage, so your tasks remain even a
 
 ## File Structure
 todo-list/
-│
-├── index.html # main structure of the app
-├── style.css # design and layout
-└── script.js # interactivity and logic
+
+index.html # main structure of the app
+style.css # design and layout
+script.js # interactivity and logic
 
 ## Developer
-Created by **YOUR NAME**, a BSIT student passionate about learning full-stack web development.  
+Created by Nash Napuli, a BSIT student passionate about learning full-stack web development.  
 Project built while practicing front-end development skills in Visual Studio Code.
 
 git add README.md
